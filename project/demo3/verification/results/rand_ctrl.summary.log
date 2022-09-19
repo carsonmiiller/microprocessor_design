@@ -1,0 +1,8 @@
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/rand_ctrl/t_1_ctrl.asm SUCCESS CPI:5.1 CYCLES:4016 ICOUNT:788 IHITRATE: 72.9 DHITRATE: 70.0
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/rand_ctrl/t_2_ctrl.asm SUCCESS CPI:4.9 CYCLES:4642 ICOUNT:948 IHITRATE: 73.2 DHITRATE: 81.9
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/rand_ctrl/t_3_ctrl.asm SUCCESS CPI:4.9 CYCLES:4626 ICOUNT:946 IHITRATE: 73.9 DHITRATE: 81.5
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/rand_ctrl/t_4_ctrl.asm FAILED
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/rand_ctrl/t_5_ctrl.asm FAILED
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/rand_ctrl/t_6_ctrl.asm SUCCESS CPI:4.9 CYCLES:4372 ICOUNT:896 IHITRATE: 73.0 DHITRATE: 89.6
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/rand_ctrl/t_7_ctrl.asm FAILED
+/u/s/i/sinclair/courses/cs552/spring2022/handouts/testprograms/public/rand_ctrl/t_8_ctrl.asm SUCCESS CPI:5.4 CYCLES:3585 ICOUNT:669 IHITRATE: 72.3 DHITRATE: 78.9
